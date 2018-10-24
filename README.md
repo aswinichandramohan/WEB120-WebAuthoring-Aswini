@@ -22,29 +22,26 @@ Link - https://aswinichandramohan.github.io/WEB120-Spring2018-Aswini/
 
 reCAPTCHA: The code we use minimizes the possibility of our contact form being exploited by bots/machines designed to fill out forms. To do this we also use Google's reCAPTCHA (V2) service to verify we have a human entering data in our forms.  
   - Output: [http://aswinichandramohan.com/web120/contactme.php](http://aswinichandramohan.com/web120/contactme.php)
-  
-  
+
 ### Assignment 3 - BIG
 - [x] Produce a responsive layout, main navigation, ReCaptcha Form that would work for client questions, Google calendar, YouTube video and Google map using CSS @media queries
--[x] 2 embbeded web cams (one from youtube and one from DOT)
+- [x] 2 embbeded web cams (one from youtube and one from DOT)
  
-- ReCaptcha Form that would work for client questions: [http://aswinichandramohan.com/web120/big/index.php](http://aswinichandramohan.com/web120/big/index.php)
-- Google calendar: [http://aswinichandramohan.com/web120/big/calendar.php](http://aswinichandramohan.com/web120/big/calendar.php)
-- Google map: [http://aswinichandramohan.com/web120/big/map.php](http://aswinichandramohan.com/web120/big/map.php)
-- YouTube video: [http://aswinichandramohan.com/web120/big/youtube.php](http://aswinichandramohan.com/web120/big/youtube.php)
--WebCam: [http://aswinichandramohan.com/web120/big/webcam.php](http://aswinichandramohan.com/web120/big/webcam.php)
+- [x] ReCaptcha Form that would work for client questions: [http://aswinichandramohan.com/web120/big/index.php](http://aswinichandramohan.com/web120/big/index.php)
+- [x] Google calendar: [http://aswinichandramohan.com/web120/big/calendar.php](http://aswinichandramohan.com/web120/big/calendar.php)
+- [x] Google map: [http://aswinichandramohan.com/web120/big/map.php](http://aswinichandramohan.com/web120/big/map.php)
+- [x] YouTube video: [http://aswinichandramohan.com/web120/big/youtube.php](http://aswinichandramohan.com/web120/big/youtube.php)
+- [x] WebCam: [http://aswinichandramohan.com/web120/big/webcam.php](http://aswinichandramohan.com/web120/big/webcam.php)
 
-
-   
 ### Assignment 4 - Final Project
-Website Production (phases)
+Website Production (done in phases)
+* Phase 1: (Survey/AIA) Working with the client to discover the client's goals and their user/audience
+* Phase 2: (UX) Development of wire-frames, flowcharts & possibly design concepts using info discovered in Phase 1. 
+* Phase 3: Coding the wireframes/templates, adding the design, testing
+* Phase 4: Launch
 
-Phase 1 = (Survey/AIA) Working with the client to discover the client's goals and their user/audience
-Phase 2   (UX) Development of wire-frames, flowcharts & possibly design concepts using info discovered in Phase 1. 
-Phase 3 = Coding the wireframes/templates, adding the design, testing
-Phase 4 = Launch
-#### Phase 1 = (Survey/AIA) Working with the client to discover the client's goals and their user/audience
-- 1.My client's name, our relationship and the final decision maker (if different) for this website: Selva Kumar, my uncle and the final decision maker.
+#### Phase 1: (Survey/AIA) Working with the client to discover the client's goals and their user/audience
+1.My client's name, our relationship and the final decision maker (if different) for this website: Selva Kumar, my uncle and the final decision maker.
 
 2.My client's business (website) name: He started the company recently. Not yet decided on name.
 
@@ -54,11 +51,10 @@ Phase 4 = Launch
 
 5.My client's goal (s) for their website is ...  * What does your client hope to gain from this website?  There is often a multifaceted answer to this question -- examples: presence on the Internet, money, gather information from customers, etc: My client's goal is to mention the industrial garment machines and services provided by the company to the customers.
 
-
-#### Phase 2   (UX) Development of wire-frames, flowcharts & possibly design concepts using info discovered in Phase 1.
+#### Phase 2: (UX) Development of wire-frames, flowcharts & possibly design concepts using info discovered in Phase 1.
 - Output: [http://aswinichandramohan.com/web120/flowchart.php](http://aswinichandramohan.com/web120/flowchart.php)
 
-#### Phase 4 = Launch
+#### Phase 4: Launch
 - Output: [http://aswinichandramohan.com/web120/fp/index.php](http://aswinichandramohan.com/web120/fp/index.php)
 
 
