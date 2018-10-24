@@ -54,6 +54,9 @@ Website Production (done in phases)
 #### Phase 2: (UX) Development of wire-frames, flowcharts & possibly design concepts using info discovered in Phase 1.
 - Output: [http://aswinichandramohan.com/web120/flowchart.php](http://aswinichandramohan.com/web120/flowchart.php)
 
+#### Phase 3: Coding
+- [Github repo](https://github.com/aswinichandramohan/Web120-Spring2018-Final-Project/tree/master/fp)
+
 #### Phase 4: Launch
 - Output: [http://aswinichandramohan.com/web120/fp/index.php](http://aswinichandramohan.com/web120/fp/index.php)
 
